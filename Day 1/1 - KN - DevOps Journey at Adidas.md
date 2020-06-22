@@ -1,14 +1,16 @@
-##### <u>#### DevOps Journey at Adidas</u>
+#### DevOps Journey at Adidas
 
-Speaker(s):
+<u>Speaker(s):</u>
+
 Fernado Cornago - VP, Platform Engineering - Adidas
+
 
 Daniel Eichten - VP, Enterprise Architecture, Adidas
 
 
 
 
-###### Introduction</u>
+###### Introduction
 
 ```
 Team adidas comes back this year to describe the consolidation or DevOps and SRE practices across the whole IT Department, being now renamed as Technology.

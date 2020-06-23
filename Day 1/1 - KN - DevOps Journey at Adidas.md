@@ -56,8 +56,7 @@ Last but least, gamification is always a topic at adidas, we’ll see how this g
   * GitOps for users on AWS
     * "Bitbucket is integrated into Azure AD for SSO. And then a linked account request is basically one file. Yaml/Json depending on your preference. If you wanna change you only change the file. PR goes in and the guys sitting on top of aws review. Rest is then automated filling terraform templates or CDK scripts."
   * GCP + Azure all keys to the castle, but has a watchdog!
-    * [Cloud Infrastructure Security, AWS Security Monitoring - Dome9](https://dome9.com/) - Watchdog 
-* 
+    * [Cloud Infrastructure Security, AWS Security Monitoring - Dome9](https://dome9.com/) - Watchdog
 
 ---
 

@@ -27,6 +27,28 @@ Sasha Rosenbaum will dig deep into Microsoft’s open source evolution, and give
 
 ##### Notes
 
+* Consume Responsibly
+  
+  * Open source maintainers don't owe you anything
+  
+  * 99% of organizations make use of opensource, even if they don't realise it
+  
+  * Breaches cost money - Dectecting this in the supply chain (During development) or Code scanning etc prevents this before the code is shipped
+
+* Understand the business need to contribute
+  
+  * Forking is integration debt
+  
+  * Pushing fixes upstream helps everyone else
+  
+  * Opensource communities value code over everything else
+  
+  * Be welcoming when people suggest changes, or create issues and PR/MRs
+  
+  * 
+
 ---
 
 ##### Takeaways
+
+* Could be a good baseline to look at when open sourcing as a company

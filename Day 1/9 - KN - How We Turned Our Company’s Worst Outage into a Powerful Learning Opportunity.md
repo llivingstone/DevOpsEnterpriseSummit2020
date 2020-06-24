@@ -20,6 +20,76 @@ n February 2019, we experienced the worst outage in company history. This outage
 
 ##### Notes
 
+* Outage
+  
+  * Worst outage in company history
+  
+  * 13 hour duration
+  
+  * Abrupt onset
+  
+  * Large portions of products unavaliable
+
+* Troubleshooting
+  
+  * Problems accessing tools to troubleshoot
+  
+  * Feeling of helplessness
+  
+  * Chaos
+
+* Issue
+  
+  * Network storm
+  
+  * Complex system failure
+
+* Aftermath
+  
+  * Angry customers
+  
+  * Leadership foxus
+  
+  * Open wounds
+  
+  * Strong emotions
+
+* Response to failure
+  
+  * Structured process to understand what hapenned
+  
+  * Blameless culture
+  
+  * What went well?
+  
+  * How can we detect or recover sooner?
+
+* Growing from the failure
+  
+  * Two weeks of intense research
+  
+  * More thorough understanding of events
+  
+  * Understanding incident response state
+
+* Incident Managment System (IMS)
+  
+  * Training 130 people as incident commanders
+  
+  * w/ Blackrock 3
+
+* Lessons Learned
+  
+  * IMS Framework
+  
+  * Pulling together
+  
+  * First IC
+  
+  * Spelling it out
+
+* 
+
 ---
 
 ##### Takeaways

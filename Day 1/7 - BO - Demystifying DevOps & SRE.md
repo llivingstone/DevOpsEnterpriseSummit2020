@@ -8,7 +8,7 @@ Daniel Maher - Developer Relations, Datadog
 
 Slides: TBC
 
-Video: TBC
+Video: [Demystifying DevOps & SRE](https://vimeo.com/showcase/7266618/video/431629344)
 
 ---
 

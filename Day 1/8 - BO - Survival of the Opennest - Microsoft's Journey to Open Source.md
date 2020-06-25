@@ -10,7 +10,7 @@ Martin Woodward - Director of Developer Relations, GitHub/Microsoft
 
 Slides: TBC
 
-Video: TBC
+Video: [Survival of the Opennest - Microsoft Journey to Open Source](https://vimeo.com/showcase/7266618/video/431629387)
 
 ---
 

@@ -10,7 +10,7 @@ Nic Whittaker - Head of Platform Engineering & DevOps, Virgin Atlantic Airways
 
 Slides: TBC
 
-Video: TBC
+Video: [ A Trail of Breadcrumbs - Virgin Atlantic Airways' Journey Towards Agility](https://vimeo.com/showcase/7266618/video/431626650)
 
 ---
 

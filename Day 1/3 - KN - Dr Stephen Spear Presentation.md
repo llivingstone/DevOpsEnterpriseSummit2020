@@ -6,7 +6,7 @@ Dr. Steaven Spear - Author, The High Velocity Edge: How Market Leaders Leverage 
 
 Slides: TBC
 
-Video: TBC
+Video: [Dr Stephen Spear - Presentation](https://vimeo.com/showcase/7273701/video/431737426)
 
 ---
 

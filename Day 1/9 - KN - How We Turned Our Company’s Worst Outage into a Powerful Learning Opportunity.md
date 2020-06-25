@@ -8,7 +8,7 @@ Erica Morrision - Executive Director, Software Development & Operations, CSG
 
 Slides: TBC
 
-Video: TBC
+Video: [How We Turned Our Company's Worst Outage into a Powerful Learning Opportunity](https://vimeo.com/showcase/7273701/video/431872263)
 
 ---
 

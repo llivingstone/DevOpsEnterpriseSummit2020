@@ -10,7 +10,7 @@ John Willis - Senior Director, Global Transformation Office, Red Hat
 
 Slides: TBC
 
-Video: TBC
+Video: [DevOps Confessions and Lightning Talks](https://vimeo.com/showcase/7273701/video/431737417)
 
 ---
 

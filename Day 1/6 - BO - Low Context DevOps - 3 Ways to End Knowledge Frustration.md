@@ -8,7 +8,7 @@ Thomas Limoncelli - SRE Manager, Stack Overflow
 
 Slides: TBC
 
-Video: TBC
+Video: [Low Context DevOps - 3 Ways to End Knowledge Frustration](https://vimeo.com/showcase/7266618/video/431629311)
 
 ---
 

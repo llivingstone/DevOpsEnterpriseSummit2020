@@ -8,7 +8,7 @@ Victoria Mayo - Head of Compliance - ipiQ
 
 Slides: TBC
 
-Video: TBC
+Video: [How a Colossus took a duck and turned it into a unicorn](https://vimeo.com/showcase/7273701/video/431737438)
 
 ---
 

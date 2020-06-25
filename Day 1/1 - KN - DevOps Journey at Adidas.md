@@ -8,7 +8,7 @@ Daniel Eichten - VP, Enterprise Architecture, Adidas
 
 Slides: TBC
 
-Video: TBC
+Video: [DevOps Journey at Adidas](https://vimeo.com/showcase/7273701/video/431737448)
 
 ---
 
